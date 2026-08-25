@@ -22,13 +22,13 @@
 
 **>_ Full-Stack Developer & Hardware Integrator** - focusing on AI, SaaS, B2C, and embedded systems<br/>
 **>_ ECE Student at PUP Sta. Mesa,** turning coursework into shipped prototypes<br/>
-**AI & Edge AI Product Integrator at Auren AI** — getting models running on real, constrained hardware<br/>
-**Builder of Things:** Prototyping NodeMCU robotics, MATLAB virtual labs, and IoT automated systems<br/>
-Splitting time between **Manila, Philippines** and **Hangzhou, Zhejiang, China**<br/>
-**Python & C++** for data, pipelines, ML experimentation, and microcontrollers<br/>
-**TypeScript** for the product surfaces the models live behind<br/>
-Outside of engineering, I run an **art sideline** making portraits and landscapes<br/>
-Obsessed with the gap between *"the model works"* and *"the product works"*
+**>_ AI & Edge AI Product Integrator at Auren AI** — getting models running on real, constrained hardware<br/>
+**>_ Builder of Things:** Prototyping NodeMCU robotics, MATLAB virtual labs, and IoT automated systems<br/>
+**>_ Splitting time between Manila, Philippines and **Hangzhou, Zhejiang, China**<br/>
+**>_ Python & C++** for data, pipelines, ML experimentation, and microcontrollers<br/>
+**>_ TypeScript** for the product surfaces the models live behind<br/>
+**>_ Outside of engineering, I run an art sideline making portraits and landscapes**<br/>
+**>_ Obsessed with the gap between "the model works" and "the product works"**<br/>
 
 ![divider](./assets/divider-urban.svg)
 
