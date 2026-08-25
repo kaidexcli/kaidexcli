@@ -24,7 +24,7 @@
 **>_ ECE Student at PUP Sta. Mesa,** turning coursework into shipped prototypes<br/>
 **>_ AI & Edge AI Product Integrator at Auren AI** — getting models running on real, constrained hardware<br/>
 **>_ Builder of Things:** Prototyping NodeMCU robotics, MATLAB virtual labs, and IoT automated systems<br/>
-**>_ Splitting time between Manila, Philippines and **Hangzhou, Zhejiang, China**<br/>
+**>_ Splitting time between Manila, Philippines and Hangzhou, Zhejiang, China**<br/>
 **>_ Python & C++** for data, pipelines, ML experimentation, and microcontrollers<br/>
 **>_ TypeScript** for the product surfaces the models live behind<br/>
 **>_ Outside of engineering, I run an art sideline making portraits and landscapes**<br/>
