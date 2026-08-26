@@ -115,10 +115,6 @@
 <img src="https://img.shields.io/badge/AWS_IAM-141414?style=flat-square&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure_AD-141414?style=flat-square&logo=microsoftazure&logoColor=0089D6" />
 <img src="https://img.shields.io/badge/Okta-141414?style=flat-square&logo=okta&logoColor=007DC1" />
-<img src="https://img.shields.io/badge/SAP_CDC-141414?style=flat-square" />
-<img src="https://img.shields.io/badge/Auth0-141414?style=flat-square&logo=auth0&logoColor=EB5424" />
-<img src="https://img.shields.io/badge/Cognito-141414?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/ISO_27001-141414?style=flat-square" />
 <img src="https://img.shields.io/badge/Kali_Linux-141414?style=flat-square" />
 <img src="https://img.shields.io/badge/BlackArch_Linux-141414?style=flat-square" />
 
@@ -141,7 +137,7 @@
 <img src="https://img.shields.io/badge/Git-141414?style=flat-square&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GitLab-141414?style=flat-square&logo=gitlab&logoColor=FC6D26" />
-<img src="https://img.shields.io/badge/VS_Code-141414?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/VS_Code-141414?style=flat-square&logo=vscode&logoColor=007ACC" />
 <img src="https://img.shields.io/badge/JetBrains_IntelliJ-141414?style=flat-square&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-141414?style=flat-square&logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-141414?style=flat-square&logo=slack&logoColor=4A154B" />
