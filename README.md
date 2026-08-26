@@ -98,14 +98,14 @@
 <img src="https://img.shields.io/badge/Transformers-141414?style=flat-square&logo=huggingface&logoColor=FFD21E" />
 <img src="https://img.shields.io/badge/OpenAI-141414?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Anthropic-141414?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Moonshot-141414?style=flat-square&logo=moonshotai&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/Moonshot-141414?style=flat-square&logo=moonshotai&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-141414?style=flat-square&logo=huggingface&logoColor=FFD21E" />
-<img src="https://img.shields.io/badge/Ollama-141414?style=flat-square&logo=ollama&logoColor=FFD21E">
+<img src="https://img.shields.io/badge/Ollama-141414?style=flat-square&logo=ollama&logoColor=white">
 <img src="https://img.shields.io/badge/LlamaIndex-141414?style=flat-square" />
 <img src="https://img.shields.io/badge/AutoGPT-141414?style=flat-square" />
 <img src="https://img.shields.io/badge/Claude_Code-141414?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Codex-141414?style=flat-square&logo=codex-logoColor=FFD21E" />
-<img src="https://img.shields.io/badge/Qwen_Code-141414?style=flat-square&logo=qwen&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/Qwen_Code-141414?style=flat-square&logo=qwen&logoColor=007DC1" />
 <img src="https://img.shields.io/badge/Antigravity-141414?style=flat-square&logo=antigravity&logoColor=FFD21E" />
 
 <br/><br/>
