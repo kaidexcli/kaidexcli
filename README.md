@@ -78,7 +78,7 @@
 
 <img src="https://img.shields.io/badge/DevOps%20%26%20Cloud-FF8C00?style=flat-square&labelColor=141414" />
 <br/><br/>
-<img src="https://img.shields.io/badge/AWS-141414?style=flat-square&logo=amazonaws&logoColor=232F3E" />
+<img src="https://img.shields.io/badge/AWS-141414?style=flat-square&logo=amazonwebservices&logoColor=232F3E" />
 <img src="https://img.shields.io/badge/GCP-141414?style=flat-square&logo=googlecloud&logoColor=4285F4" />
 <img src="https://img.shields.io/badge/Azure-141414?style=flat-square&logo=microsoftazure&logoColor=0089D6" />
 <img src="https://img.shields.io/badge/GitHub_Actions-141414?style=flat-square&logo=githubactions&logoColor=2088FF" />
