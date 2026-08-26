@@ -110,13 +110,13 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Security%20%26%20Identity-00C9FF?style=flat-square&labelColor=141414" />
+<img src="https://img.shields.io/badge/Cybersecurity%20%26%20Identity-00C9FF?style=flat-square&labelColor=141414" />
 <br/><br/>
 <img src="https://img.shields.io/badge/AWS_IAM-141414?style=flat-square&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure_AD-141414?style=flat-square&logo=microsoftazure&logoColor=0089D6" />
 <img src="https://img.shields.io/badge/Okta-141414?style=flat-square&logo=okta&logoColor=007DC1" />
 <img src="https://img.shields.io/badge/Kali_Linux-141414?style=flat-square&logo=kalilinux&logoColor=0089D6" />
-<img src="https://img.shields.io/badge/BlackArch_Linux-141414?style=flat-square&logo=blackarch&logoColor=0089D6" />
+<img src="https://img.shields.io/badge/BlackArch_Linux-141414?style=flat-square&logo=blackarchlinux&logoColor=0089D6" />
 
 <br/><br/>
 
