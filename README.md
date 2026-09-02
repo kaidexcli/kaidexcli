@@ -58,7 +58,6 @@
 <br/><br/>
 <img src="https://img.shields.io/badge/Node.js-141414?style=flat-square&logo=nodedotjs&logoColor=339933" />
 <img src="https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Java-141414?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-141414?style=flat-square&logo=php&logoColor=777BB4" />
 <img src="https://img.shields.io/badge/Express.js-141414?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-141414?style=flat-square&logo=nestjs&logoColor=E0234E" />
@@ -80,7 +79,6 @@
 <br/><br/>
 <img src="https://img.shields.io/badge/AWS-141414?style=flat-square&logo=amazonwebservices&logoColor=232F3E" />
 <img src="https://img.shields.io/badge/GCP-141414?style=flat-square&logo=googlecloud&logoColor=4285F4" />
-<img src="https://img.shields.io/badge/Azure-141414?style=flat-square&logo=microsoftazure&logoColor=0089D6" />
 <img src="https://img.shields.io/badge/GitHub_Actions-141414?style=flat-square&logo=githubactions&logoColor=2088FF" />
 <img src="https://img.shields.io/badge/GitLab_CI-141414?style=flat-square&logo=gitlab&logoColor=FC6D26" />
 <img src="https://img.shields.io/badge/Terraform-141414?style=flat-square&logo=terraform&logoColor=7B42BC" />
@@ -112,9 +110,6 @@
 
 <img src="https://img.shields.io/badge/Cybersecurity%20%26%20Identity-00C9FF?style=flat-square&labelColor=141414" />
 <br/><br/>
-<img src="https://img.shields.io/badge/AWS_IAM-141414?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_AD-141414?style=flat-square&logo=microsoftazure&logoColor=0089D6" />
-<img src="https://img.shields.io/badge/Okta-141414?style=flat-square&logo=okta&logoColor=007DC1" />
 <img src="https://img.shields.io/badge/Kali_Linux-141414?style=flat-square&logo=kalilinux&logoColor=0089D6" />
 <img src="https://img.shields.io/badge/BlackArch_Linux-141414?style=flat-square&logo=blackarchlinux&logoColor=0089D6" />
 
