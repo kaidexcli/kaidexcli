@@ -135,7 +135,6 @@
 <img src="https://img.shields.io/badge/VS_Code-141414?style=flat-square&logo=visualstudio&logoColor=007ACC" />
 <img src="https://img.shields.io/badge/JetBrains_IntelliJ-141414?style=flat-square&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-141414?style=flat-square&logo=pycharm&logoColor=white" />
-<img src="https://img.shields.io/badge/Slack-141414?style=flat-square&logo=slack&logoColor=4A154B" />
 <img src="https://img.shields.io/badge/Discord-141414?style=flat-square&logo=discord&logoColor=5865F2" />
 <img src="https://img.shields.io/badge/Teams-141414?style=flat-square&logo=microsoftteams&logoColor=6264A7" />
 
