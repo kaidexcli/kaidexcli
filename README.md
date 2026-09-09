@@ -6,7 +6,6 @@
 
 <img src="https://img.shields.io/badge/-ECE--3-7F00FF?style=for-the-badge&labelColor=141414" />
 <img src="https://img.shields.io/badge/-Auren%20AI-FF0080?style=for-the-badge&labelColor=141414" />
-<img src="https://img.shields.io/badge/-Manila%20⇄%20Hangzhou-FF8C00?style=for-the-badge&labelColor=141414" />
 <img src="https://img.shields.io/badge/-Edge%20AI-2ECC71?style=for-the-badge&labelColor=141414" />
 <img src="https://img.shields.io/badge/-Open%20to%20Collab-00C9FF?style=for-the-badge&labelColor=141414" />
 
@@ -24,7 +23,6 @@
 **>_ ECE Student at PUP Sta. Mesa,** turning coursework into shipped prototypes<br/>
 **>_ AI & Edge AI Product Integrator** — getting models running on real, constrained hardware<br/>
 **>_ Builder of Things:** Prototyping NodeMCU robotics, MATLAB virtual labs, and IoT automated systems<br/>
-**>_ Splitting time between Manila, Philippines and Hangzhou, Zhejiang, China**<br/>
 **>_ Python & C++** for data, pipelines, ML experimentation, and microcontrollers<br/>
 **>_ TypeScript** for the product surfaces the models live behind<br/>
 **>_ Outside of engineering, I run an art sideline making portraits and landscapes**<br/>
@@ -49,7 +47,6 @@
 <img src="https://img.shields.io/badge/SCSS-141414?style=flat-square&logo=sass&logoColor=CC6699" />
 <img src="https://img.shields.io/badge/Figma-141414?style=flat-square&logo=styledcomponents&logoColor=DB7093" />
 <img src="https://img.shields.io/badge/Vite-141414?style=flat-square&logo=vite&logoColor=646CFF" />
-<img src="https://img.shields.io/badge/Webpack-141414?style=flat-square&logo=webpack&logoColor=8DD6F9" />
 <img src="https://img.shields.io/badge/ESLint-141414?style=flat-square&logo=eslint&logoColor=4B32C3" />
 
 <br/><br/>
@@ -108,11 +105,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Cybersecurity%20%26%20Identity-00C9FF?style=flat-square&labelColor=141414" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Kali_Linux-141414?style=flat-square&logo=kalilinux&logoColor=0089D6" />
-<img src="https://img.shields.io/badge/BlackArch_Linux-141414?style=flat-square&logo=blackarchlinux&logoColor=0089D6" />
-
 <br/><br/>
 
 <img src="https://img.shields.io/badge/CMS%20%26%20No--Code-7F00FF?style=flat-square&labelColor=141414" />
@@ -136,7 +128,7 @@
 <img src="https://img.shields.io/badge/JetBrains_IntelliJ-141414?style=flat-square&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-141414?style=flat-square&logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/Discord-141414?style=flat-square&logo=discord&logoColor=5865F2" />
-<img src="https://img.shields.io/badge/Teams-141414?style=flat-square&logo=microsoftteams&logoColor=6264A7" />
+<img src="https://img.shields.io/badge/MS Teams-141414?style=flat-square&logo=microsoftteams&logoColor=6264A7" />
 
 </div>
 
