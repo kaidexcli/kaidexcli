@@ -127,7 +127,7 @@
 
 </div>
 
-![divider](./assets/divider-urban.svg)
+![divider](./assets/divider-aurora.svg)
 
 <div align="center">
 
