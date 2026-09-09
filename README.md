@@ -72,8 +72,6 @@
 
 <br/><br/>
 
-<br/><br/>
-
 <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-2ECC71?style=flat-square&labelColor=141414" />
 <br/><br/>
 <img src="https://img.shields.io/badge/TensorFlow-141414?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
@@ -91,8 +89,6 @@
 <img src="https://img.shields.io/badge/Codex-141414?style=flat-square&logo=codex-logoColor=FFD21E" />
 <img src="https://img.shields.io/badge/Qwen_Code-141414?style=flat-square&logo=qwen&logoColor=007DC1" />
 <img src="https://img.shields.io/badge/Antigravity-141414?style=flat-square&logo=antigravity&logoColor=FFD21E" />
-
-<br/><br/>
 
 <br/><br/>
 
