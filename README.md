@@ -11,7 +11,7 @@
 
 </div>
 
-![divider](./assets/divider-urban.svg)
+![divider](./assets/divider-aurora.svg)
 
 <div align="center">
 
@@ -123,7 +123,7 @@
 
 ## ⚙️&nbsp; Currently
 
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=680&lines=%E2%9E%9C+Integrating+AI%2Fedge-AI+features+%40+Auren+AI;%E2%9E%9C+Prototyping+SecuWear+%26+AquaSmart+IoT+systems;%E2%9E%9C+Drilling+communications+systems+for+the+2027+EST+Quiz+Show;%E2%9E%9C+Always+down+to+collab+on+hands-on+hardware)
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=680&lines=%E2%9E%9C+Integrating+AI%2Fedge-AI+features+%40+Loompoint+AI;%E2%9E%9C+Prototyping+SecuWear+%26+and+IoT+systems;%E2%9E%9C+Drilling+communications+systems+for+the+2027+EST+Quiz+Show;%E2%9E%9C+Always+down+to+collab+on+hands-on+software)
 
 </div>
 
