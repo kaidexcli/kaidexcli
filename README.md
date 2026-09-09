@@ -72,17 +72,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/DevOps%20%26%20Cloud-FF8C00?style=flat-square&labelColor=141414" />
-<br/><br/>
-<img src="https://img.shields.io/badge/AWS-141414?style=flat-square&logo=amazonwebservices&logoColor=232F3E" />
-<img src="https://img.shields.io/badge/GCP-141414?style=flat-square&logo=googlecloud&logoColor=4285F4" />
-<img src="https://img.shields.io/badge/GitHub_Actions-141414?style=flat-square&logo=githubactions&logoColor=2088FF" />
-<img src="https://img.shields.io/badge/GitLab_CI-141414?style=flat-square&logo=gitlab&logoColor=FC6D26" />
-<img src="https://img.shields.io/badge/Terraform-141414?style=flat-square&logo=terraform&logoColor=7B42BC" />
-<img src="https://img.shields.io/badge/AWS_CloudFormation-141414?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-141414?style=flat-square&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Kubernetes-141414?style=flat-square&logo=kubernetes&logoColor=326CE5" />
-
 <br/><br/>
 
 <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-2ECC71?style=flat-square&labelColor=141414" />
