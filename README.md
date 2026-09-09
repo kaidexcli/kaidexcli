@@ -5,7 +5,7 @@
 ![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=FF0080,FF8C00,2ECC71,00C9FF&center=true&vCenter=true&width=720&lines=Shipping+AI+that+runs+where+it+has+to+run.;Edge+inference+%C3%97+applied+ML+%C3%97+product.;ECE-3+%40+PUP+Sta.+Mesa+%E2%80%94+building+in+public.)
 
 <img src="https://img.shields.io/badge/-ECE--3-7F00FF?style=for-the-badge&labelColor=141414" />
-<img src="https://img.shields.io/badge/-Auren%20AI-FF0080?style=for-the-badge&labelColor=141414" />
+<img src="https://img.shields.io/badge/-Loompoint%20AI-FF0080?style=for-the-badge&labelColor=141414" />
 <img src="https://img.shields.io/badge/-Edge%20AI-2ECC71?style=for-the-badge&labelColor=141414" />
 <img src="https://img.shields.io/badge/-Open%20to%20Collab-00C9FF?style=for-the-badge&labelColor=141414" />
 
