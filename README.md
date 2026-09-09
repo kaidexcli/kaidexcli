@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](./assets/header-urban.svg)
+![header](./assets/header-aurora.svg)
 
 ![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=FF0080,FF8C00,2ECC71,00C9FF&center=true&vCenter=true&width=720&lines=Shipping+AI+that+runs+where+it+has+to+run.;Edge+inference+%C3%97+applied+ML+%C3%97+product.;ECE-3+%40+PUP+Sta.+Mesa+%E2%80%94+building+in+public.)
 
@@ -28,7 +28,7 @@
 **>_ Outside of engineering, I run an art sideline making portraits and landscapes**<br/>
 **>_ Obsessed with the gap between "the model works" and "the product works"**<br/>
 
-![divider](./assets/divider-urban.svg)
+![divider](./assets/divider-aurora.svg)
 
 <div align="center">
 
@@ -117,7 +117,7 @@
 
 </div>
 
-![divider](./assets/divider-urban.svg)
+![divider](./assets/divider-aurora.svg)
 
 <div align="center">
 
@@ -146,4 +146,4 @@
 
 </div>
 
-![footer](./assets/footer-urban.svg)
+![footer](./assets/footer-aurora.svg)
